@@ -60,8 +60,8 @@ for ($i = 0; $i < $row; $i++)
     echo "\n";
 }
 }
-$row = 7;
-$col = 7;
+$row = 11;
+$col = 11;
 swastika($row, $col);
      
 ?>
